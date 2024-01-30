@@ -1,0 +1,8 @@
+
+            
+            train: output/images/train
+            val: output/images/validation
+            nc: 2
+            names: ['crop', 'weed']
+            
+            
